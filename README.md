@@ -27,8 +27,8 @@ Put the dataset in the data folder. `train.csv`, `valid.csv`, `test.csv` are org
 
 ```
 id	text				image	label
-a	this is rumor		a.png	1
-b	this is non-rumor	b.png	0
+a	this is rumor		 a.png	1
+b	this is non-rumor	 b.png	0
 ```
 
 ### Image Feature
