@@ -26,9 +26,9 @@ We use two multi-modal rumor datasets, [Fakeddit](https://github.com/entitize/Fa
 Put the dataset in the data folder. `train.csv`, `valid.csv`, `test.csv` are organized as:
 
 ```
-id	text				image	label
-a	this is rumor		 a.png	1
-b	this is non-rumor	 b.png	0
+id	text		image	label
+a	this is rumor		a.png	1
+b	this is non-rumor	b.png	0
 ```
 
 ### Image Feature
